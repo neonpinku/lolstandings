@@ -1,1 +1,1 @@
-"# lolstandings" 
+#lolstandings
